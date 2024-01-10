@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASTLIBRA", "ASTLIBRA\ASTLIBRA.vcxproj", "{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Debug|x64.ActiveCfg = Debug|x64
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Debug|x64.Build.0 = Debug|x64
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Debug|x86.ActiveCfg = Debug|Win32
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Debug|x86.Build.0 = Debug|Win32
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Release|x64.ActiveCfg = Release|x64
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Release|x64.Build.0 = Release|x64
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Release|x86.ActiveCfg = Release|Win32
+		{9819BE9C-BEF6-44F4-A2E8-B96AEBE1E47F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCFB731-CFB9-4B6D-95E2-23D4BE56AD45}
+	EndGlobalSection
+EndGlobal
